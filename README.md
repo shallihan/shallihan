@@ -1,6 +1,6 @@
 <div align="center"> 
 <h1>:wave:</h1> 
-<p>I'm a front-end developer practicing full-stack frameworks and technologies.</p>
+<p>I'm a practising front-end developer.</p>
 
 
 </div>
