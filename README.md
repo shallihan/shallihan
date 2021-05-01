@@ -1,7 +1,7 @@
 # Front-End Developer ⌨️ React - Express.js - Node.js
 
 
-### 🧰 Technologies & Frameworks
+### Technologies & Frameworks
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
