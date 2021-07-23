@@ -21,5 +21,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shaunahallihan)
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/shallihan)
 
-<codersrank-summary username="shallihan"></codersrank-summary>
 
